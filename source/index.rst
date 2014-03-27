@@ -1,22 +1,17 @@
-.. NetCDF-U documentation master file, created by
-   sphinx-quickstart on Thu Mar 27 14:46:10 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to NetCDF-U's documentation!
-====================================
+==========================================
+NetCDF Uncertainty Conventions (NetCDF-U)
+==========================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
+   scope
+   normative_references
+   terms_and_definitions
+   conventions
+   compatibility
+   uncertainty_conventions
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 

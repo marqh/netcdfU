@@ -6,6 +6,7 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
 
    scope
    normative_references
